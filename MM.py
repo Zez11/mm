@@ -7,7 +7,7 @@ import requests
 import os.path
 import os
 from os import path
-from termcolor import colored, cprint
+from import colored, print
 from pyfiglet import Figlet
 import re
 
