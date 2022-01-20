@@ -7,7 +7,7 @@ import requests
 import os.path
 import os
 from os import path
-from import colored, print
+from import print
 from pyfiglet import Figlet
 import re
 
